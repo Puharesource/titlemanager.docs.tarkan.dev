@@ -1,0 +1,10 @@
+{
+  "title": "TitleManager docs",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "Puharesource/titlemanager.docs.tarkan.dev",
+  "twitter": "@Puharesource"
+}
