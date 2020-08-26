@@ -45,7 +45,7 @@ The amount of ticks it takes for the title to fade out of view.
 
 ## Example
 Below you see an example of two animations on the player list and their corresponding files.
-![Example animation](http://i.imgur.com/KFgC8V1.gif)
+![Example animation](https://i.imgur.com/KFgC8V1.gif)
 
 <code-group>
   <code-block label="left-to-right" active>

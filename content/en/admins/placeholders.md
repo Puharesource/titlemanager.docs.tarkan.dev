@@ -6,7 +6,7 @@ category: Guide
 ---
 
 TitleManager provides you with a ton of placeholders for your titles, headers and alike.
-These placeholders are as followed:
+They are pieces of text, that when displayed will be replaced by a value.
 
 For more placeholders download the plugin [Clips PlaceholderAPI](https://www.spigotmc.org/resources/clips-placeholderapi.6245/) and enjoy its many placeholders in use!
 
@@ -42,7 +42,7 @@ Clips PlaceholderAPI does not use the TitleManager syntax for placeholders and y
 ## BungeeCord Placeholders
 <alert type="warning">
 
-You need to enable `using-bungeecord` in the configuration file for these placeholders to work.
+You need to set `using-bungeecord` to `true` in the configuration file for these placeholders to work.
 
 </alert>
 
