@@ -1,9 +1,1 @@
-<svg width="219" height="40" viewBox="0 0 219 40" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        .title { font: bold 30px sans-serif; fill: #007B4D; }
-        .manager { font: bold 30px sans-serif; fill: #fff; }
-    </style>
-
-      <text x="0" y="22" class="title">Title</text>
-      <text x="62" y="22" class="manager">Manager</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.66 40.89"><defs><style>.cls-1{font-size:36px;fill:#102e23;font-family:JoannaSansNova-Thin, Joanna Sans Nova;font-weight:200;}.cls-2,.cls-3{font-size:28px;}.cls-3{letter-spacing:-0.01em;}.cls-4{fill:#1b6147;}.cls-5{fill:#06c982;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><text class="cls-1" transform="translate(53.91 31.09)">T<tspan class="cls-2" x="19.4" y="0">ITLE</tspan><tspan x="69.13" y="0">M</tspan><tspan class="cls-2" x="100.31" y="0">AN</tspan><tspan class="cls-3" x="137.15" y="0">A</tspan><tspan class="cls-2" x="153.42" y="0">GER</tspan></text><polygon class="cls-4" points="20.94 22.3 12.77 6 10.59 6 7.17 6 5.52 6 0 39 5.07 39 9.73 11.12 20.64 32.87 20.94 33.46 20.94 33.46 20.94 22.3"/><polygon class="cls-4" points="25.94 22.3 34.12 6 36.29 6 39.72 6 41.36 6 46.88 39 41.82 39 37.15 11.12 26.25 32.87 25.95 33.46 25.94 33.46 25.94 22.3"/><polygon class="cls-5" points="25.94 22.3 25.94 5 36.13 5 41.2 5 40.36 0 35.29 0 11.6 0 6.53 0 5.69 5 10.76 5 20.94 5 20.94 22.3 20.94 33.46 20.94 33.46 21.89 35.35 23.44 36.13 24.99 35.35 25.95 33.46 25.94 33.46 25.94 22.3"/></g></g></svg>
