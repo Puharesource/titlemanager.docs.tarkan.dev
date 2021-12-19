@@ -12,7 +12,7 @@ features:
   - Animations
 ---
 
-Adds hovering titles, actionbar titles, player list titles and a scoreboard sidebar to your Minecraft 1.8 - 1.16 server.
+Adds hovering titles, actionbar titles, player list titles and a scoreboard sidebar to your Minecraft 1.8 - 1.18 server.
 
 ## Features
 
